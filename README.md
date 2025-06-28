@@ -54,15 +54,19 @@ This project aims to automate quiz/exam processes with a timer and instant evalu
 1. **Compile the code:**
    ```bash
    javac OnlineExam.java
+
 2. **Run the application:**
    ```bash
    java OnlineExam
+
 3. **Take the exam:**
-   -Log in and answer the questions.
-   -Submit before the timer runs out.
+   - Log in and answer the questions.
+   - Submit before the timer runs out.
+
+---
 
 ## Outcome
 
-   -A fully functional online exam simulation with time control.
-   -Practiced managing GUI state transitions, timers, and user input.
-   -Built experience with interactive Swing applications.
+- A fully functional online exam simulation with time control.
+- Practiced managing GUI state transitions, timers, and user input.
+- Built experience with interactive Swing applications.
