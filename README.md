@@ -1,6 +1,4 @@
-## 📌  Online Examination System
 
-```markdown
 # 📝 Online Examination System
 
 ## Objective
